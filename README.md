@@ -1,7 +1,7 @@
 # tools
 
-* [disk.pl] - Check disk and raid (md) states
+* [disk.pl](disk.pl) - Check disk and raid (md) states
 
 ### Requirements 
 
-* [disk.pl] - smartctl & lshw
+* [disk.pl](disk.pl) - smartctl & lshw
